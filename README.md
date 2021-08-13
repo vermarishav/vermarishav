@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vermarishabh031@gmail.com**
 
-- 📄 Know about my experiences [Head up to Linkedin](https://www.linkedin.com/in/rishabh-verma-96894a217/)
+- 📄 Know about my experiences [Head up to Linkedin](https://www.linkedin.com/in/Vermarishav/)
 
 - ⚡ Fun fact **pro.gram.mers an organism that turns caffiene into software**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rishabh-verma-96894a217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-verma-96894a217" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Vermarishav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vermarishav" height="30" width="40" /></a>
 <a href="https://fb.com/veritasrishabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="veritasrishabh" height="30" width="40" /></a>
 </p>
 
