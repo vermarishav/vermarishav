@@ -5,7 +5,7 @@
 <h1 align="center">Hola,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Mucho Gusto this is Rishabh</h1>
 <h3 align="center">A passionate full stack web developer and technology entusiast from India.!</h3>
 
-## 🙋‍♂️ About Me ==>
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[DialogFlow CX](https://googlesolutions.qwiklabs.com/classrooms/10448)**
 
@@ -33,7 +33,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Stats:
 
   <br/>
   <p align="center">    
